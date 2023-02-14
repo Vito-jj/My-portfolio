@@ -11,7 +11,10 @@
     + [Тестирование сайта Swag Labs](https://docs.google.com/spreadsheets/d/1MBpl-dKKCtVLDczwwdOuQx6X3_4qSNSJ88bCl5qeUh0/edit#gid=0)
 
 ## Сертификаты Нетологии
-* Ручное тестирование веб-приложений ()
-* Git - система контроля версий ()
-* Java для тестировщиков ()
-* Автоматизированное тестирование ()
+* [Ручное тестирование веб-приложений](https://github.com/Vito-jj/My-portfolio/blob/main/certificate_Manual.tests.pdf)
+* [Git - система контроля версий](https://github.com/Vito-jj/My-portfolio/blob/main/certificate_Git.pdf)
+* [Java для тестировщиков](https://github.com/Vito-jj/My-portfolio/blob/main/certificate_Java.for.tests.pdf)
+* [Автоматизированное тестирование](https://github.com/Vito-jj/My-portfolio/blob/main/certificate_Automalion.pdf)
+* Прочие:
+    + [грамотность](https://github.com/Vito-jj/My-portfolio/blob/main/certificate_Literacy.pdf)
+    + [английский](https://github.com/Vito-jj/My-portfolio/blob/main/certificate_English.for.pogrammers.pdf)
