@@ -11,6 +11,8 @@
     + [Тестирование сайта Swag Labs](https://docs.google.com/spreadsheets/d/1MBpl-dKKCtVLDczwwdOuQx6X3_4qSNSJ88bCl5qeUh0/edit#gid=0)
 
 ## Сертификаты Нетологии
+* [Обучение по программе: "Тестировщик ПО"](https://github.com/Vito-jj/Vito-jj/blob/main/certificateQA.pdf)
+* [Завершение дипломного блока профессии Тестировщик](https://github.com/Vito-jj/Vito-jj/blob/main/Diploma.jpg)
 * [Ручное тестирование веб-приложений](https://github.com/Vito-jj/My-portfolio/blob/main/certificate_Manual.tests.pdf)
 * [Git - система контроля версий](https://github.com/Vito-jj/My-portfolio/blob/main/certificate_Git.pdf)
 * [Java для тестировщиков](https://github.com/Vito-jj/My-portfolio/blob/main/certificate_Java.for.tests.pdf)
