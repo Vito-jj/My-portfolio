@@ -9,6 +9,7 @@
 * Могу похвастаться успешно выполненными кейсами:
     + [Тестирование приложения Nextracker на платформе IOS](https://docs.google.com/document/d/18mkC9uqFhRtltZOO0J2e9xrZjymo1W8ifUkg4l3t3vQ/edit)
     + [Тестирование сайта Swag Labs](https://docs.google.com/spreadsheets/d/1MBpl-dKKCtVLDczwwdOuQx6X3_4qSNSJ88bCl5qeUh0/edit#gid=0)
+    + Составление [чек-листа](https://checkvist.com/p/L7f0dOwe0lnMbmpTp6kAXd) для проверки стартовой страницы сервиса [INSMMART](https://widgets.inssmart.ru/contract/mortgage/?appId=226ff66a-3108-5157-9d69-997b59f77bb1&secret=39919a81-fc16-5afd-9ff1-d0f6c9602608)
 
 ## Сертификаты Нетологии
 * [Обучение по программе: "Тестировщик ПО"](https://github.com/Vito-jj/Vito-jj/blob/main/certificateQA.pdf)
