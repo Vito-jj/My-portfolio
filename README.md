@@ -1,7 +1,9 @@
 ## Привет! 
 ### Меня зовут Виталий Шилкин, я - тестировщик ПО.
 
-## Мои проекты
+## Некоторые из моих проектов
+* Тестирование мобильного приложения Gremm на платформах iOS и Android. [Функционал приложения](https://github.com/Vito-jj/Vito-jj/commit/774f265c300fe7e02d3dbdacc7d04d3ac52703bf)
+* Тестирование функционала мобильного приложения Мегацвет. [Функционал приложения](https://github.com/Vito-jj/Vito-jj/commit/eff654c5319b3e7518be917de12500e04268cd7e)
 * Автоматизация сценариев комплексного сервиса, взаимодействующего с СУБД и API Банка. [Репозиторий дипломного проекта](https://github.com/Vito-jj/Diplom-QA46)
 * Автоматизация тестирования. [Работы на тему "Автоматизация"](https://github.com/stars/Vito-jj/lists/homework-automation)
 * Работа с Git и GitHub. [Работы на тему "Git — система контроля версий"](https://github.com/stars/Vito-jj/lists/homework-git)
