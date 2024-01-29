@@ -14,7 +14,7 @@
     + Составление [чек-листа](https://checkvist.com/p/L7f0dOwe0lnMbmpTp6kAXd) для проверки стартовой страницы сервиса [INSMMART](https://widgets.inssmart.ru/contract/mortgage/?appId=226ff66a-3108-5157-9d69-997b59f77bb1&secret=39919a81-fc16-5afd-9ff1-d0f6c9602608)
 
 ## Сертификаты
-* [Обучение SQL](https://github.com/Vito-jj/Vito-jj/blob/main/stepik-certificate.pdf))
+* [Обучение SQL](https://github.com/Vito-jj/Vito-jj/blob/main/stepik-certificate.pdf)
 * [Диплом о профессиональной переподготовке](https://github.com/Vito-jj/Vito-jj/blob/main/Diplom.pdf)
 * [Обучение по программе: "Тестировщик ПО"](https://github.com/Vito-jj/Vito-jj/blob/main/certificateQA.pdf)
 * [Завершение дипломного блока профессии Тестировщик](https://github.com/Vito-jj/Vito-jj/blob/main/Diploma.jpg)
